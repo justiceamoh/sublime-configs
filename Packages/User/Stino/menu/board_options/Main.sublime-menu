@@ -1,0 +1,378 @@
+[
+    {
+        "caption": "Arduino", 
+        "children": [
+            {
+                "caption": "Board Options", 
+                "children": [
+                    {
+                        "caption": "USB Type", 
+                        "command": "none_command"
+                    }, 
+                    {
+                        "args": {
+                            "option_index": 0, 
+                            "sub_board_id": "ide.teensy.avr.teensy31.usb.serial"
+                        }, 
+                        "caption": "Serial", 
+                        "checkbox": true, 
+                        "command": "select_sub_board"
+                    }, 
+                    {
+                        "args": {
+                            "option_index": 0, 
+                            "sub_board_id": "ide.teensy.avr.teensy31.usb.hid"
+                        }, 
+                        "caption": "Keyboard + Mouse + Joystick", 
+                        "checkbox": true, 
+                        "command": "select_sub_board"
+                    }, 
+                    {
+                        "args": {
+                            "option_index": 0, 
+                            "sub_board_id": "ide.teensy.avr.teensy31.usb.serialhid"
+                        }, 
+                        "caption": "Serial + Keyboard + Mouse + Joystick", 
+                        "checkbox": true, 
+                        "command": "select_sub_board"
+                    }, 
+                    {
+                        "args": {
+                            "option_index": 0, 
+                            "sub_board_id": "ide.teensy.avr.teensy31.usb.midi"
+                        }, 
+                        "caption": "MIDI", 
+                        "checkbox": true, 
+                        "command": "select_sub_board"
+                    }, 
+                    {
+                        "args": {
+                            "option_index": 0, 
+                            "sub_board_id": "ide.teensy.avr.teensy31.usb.rawhid"
+                        }, 
+                        "caption": "Raw HID", 
+                        "checkbox": true, 
+                        "command": "select_sub_board"
+                    }, 
+                    {
+                        "args": {
+                            "option_index": 0, 
+                            "sub_board_id": "ide.teensy.avr.teensy31.usb.flightsim"
+                        }, 
+                        "caption": "Flight Sim Controls", 
+                        "checkbox": true, 
+                        "command": "select_sub_board"
+                    }, 
+                    {
+                        "caption": "-"
+                    }, 
+                    {
+                        "caption": "CPU Speed", 
+                        "command": "none_command"
+                    }, 
+                    {
+                        "args": {
+                            "option_index": 1, 
+                            "sub_board_id": "ide.teensy.avr.teensy31.speed.96"
+                        }, 
+                        "caption": "96 MHz (overclock)", 
+                        "checkbox": true, 
+                        "command": "select_sub_board"
+                    }, 
+                    {
+                        "args": {
+                            "option_index": 1, 
+                            "sub_board_id": "ide.teensy.avr.teensy31.speed.72"
+                        }, 
+                        "caption": "72 MHz", 
+                        "checkbox": true, 
+                        "command": "select_sub_board"
+                    }, 
+                    {
+                        "args": {
+                            "option_index": 1, 
+                            "sub_board_id": "ide.teensy.avr.teensy31.speed.48"
+                        }, 
+                        "caption": "48 MHz", 
+                        "checkbox": true, 
+                        "command": "select_sub_board"
+                    }, 
+                    {
+                        "args": {
+                            "option_index": 1, 
+                            "sub_board_id": "ide.teensy.avr.teensy31.speed.24"
+                        }, 
+                        "caption": "24 MHz", 
+                        "checkbox": true, 
+                        "command": "select_sub_board"
+                    }, 
+                    {
+                        "args": {
+                            "option_index": 1, 
+                            "sub_board_id": "ide.teensy.avr.teensy31.speed.16nousb"
+                        }, 
+                        "caption": "16 MHz (No USB)", 
+                        "checkbox": true, 
+                        "command": "select_sub_board"
+                    }, 
+                    {
+                        "args": {
+                            "option_index": 1, 
+                            "sub_board_id": "ide.teensy.avr.teensy31.speed.8nousb"
+                        }, 
+                        "caption": "8 MHz (No USB)", 
+                        "checkbox": true, 
+                        "command": "select_sub_board"
+                    }, 
+                    {
+                        "args": {
+                            "option_index": 1, 
+                            "sub_board_id": "ide.teensy.avr.teensy31.speed.4nousb"
+                        }, 
+                        "caption": "4 MHz (No USB)", 
+                        "checkbox": true, 
+                        "command": "select_sub_board"
+                    }, 
+                    {
+                        "args": {
+                            "option_index": 1, 
+                            "sub_board_id": "ide.teensy.avr.teensy31.speed.2nousb"
+                        }, 
+                        "caption": "2 MHz (No USB)", 
+                        "checkbox": true, 
+                        "command": "select_sub_board"
+                    }, 
+                    {
+                        "caption": "-"
+                    }, 
+                    {
+                        "caption": "Keyboard Layout", 
+                        "command": "none_command"
+                    }, 
+                    {
+                        "args": {
+                            "option_index": 2, 
+                            "sub_board_id": "ide.teensy.avr.teensy31.keys.en-us"
+                        }, 
+                        "caption": "US English", 
+                        "checkbox": true, 
+                        "command": "select_sub_board"
+                    }, 
+                    {
+                        "args": {
+                            "option_index": 2, 
+                            "sub_board_id": "ide.teensy.avr.teensy31.keys.fr-ca"
+                        }, 
+                        "caption": "Canadian French", 
+                        "checkbox": true, 
+                        "command": "select_sub_board"
+                    }, 
+                    {
+                        "args": {
+                            "option_index": 2, 
+                            "sub_board_id": "ide.teensy.avr.teensy31.keys.xx-ca"
+                        }, 
+                        "caption": "Canadian Multilingual", 
+                        "checkbox": true, 
+                        "command": "select_sub_board"
+                    }, 
+                    {
+                        "args": {
+                            "option_index": 2, 
+                            "sub_board_id": "ide.teensy.avr.teensy31.keys.cz-cz"
+                        }, 
+                        "caption": "Czech", 
+                        "checkbox": true, 
+                        "command": "select_sub_board"
+                    }, 
+                    {
+                        "args": {
+                            "option_index": 2, 
+                            "sub_board_id": "ide.teensy.avr.teensy31.keys.da-da"
+                        }, 
+                        "caption": "Danish", 
+                        "checkbox": true, 
+                        "command": "select_sub_board"
+                    }, 
+                    {
+                        "args": {
+                            "option_index": 2, 
+                            "sub_board_id": "ide.teensy.avr.teensy31.keys.fi-fi"
+                        }, 
+                        "caption": "Finnish", 
+                        "checkbox": true, 
+                        "command": "select_sub_board"
+                    }, 
+                    {
+                        "args": {
+                            "option_index": 2, 
+                            "sub_board_id": "ide.teensy.avr.teensy31.keys.fr-fr"
+                        }, 
+                        "caption": "French", 
+                        "checkbox": true, 
+                        "command": "select_sub_board"
+                    }, 
+                    {
+                        "args": {
+                            "option_index": 2, 
+                            "sub_board_id": "ide.teensy.avr.teensy31.keys.fr-be"
+                        }, 
+                        "caption": "French Belgian", 
+                        "checkbox": true, 
+                        "command": "select_sub_board"
+                    }, 
+                    {
+                        "args": {
+                            "option_index": 2, 
+                            "sub_board_id": "ide.teensy.avr.teensy31.keys.fr-ch"
+                        }, 
+                        "caption": "French Swiss", 
+                        "checkbox": true, 
+                        "command": "select_sub_board"
+                    }, 
+                    {
+                        "args": {
+                            "option_index": 2, 
+                            "sub_board_id": "ide.teensy.avr.teensy31.keys.de-de"
+                        }, 
+                        "caption": "German", 
+                        "checkbox": true, 
+                        "command": "select_sub_board"
+                    }, 
+                    {
+                        "args": {
+                            "option_index": 2, 
+                            "sub_board_id": "ide.teensy.avr.teensy31.keys.de-dm"
+                        }, 
+                        "caption": "German (Mac)", 
+                        "checkbox": true, 
+                        "command": "select_sub_board"
+                    }, 
+                    {
+                        "args": {
+                            "option_index": 2, 
+                            "sub_board_id": "ide.teensy.avr.teensy31.keys.de-ch"
+                        }, 
+                        "caption": "German Swiss", 
+                        "checkbox": true, 
+                        "command": "select_sub_board"
+                    }, 
+                    {
+                        "args": {
+                            "option_index": 2, 
+                            "sub_board_id": "ide.teensy.avr.teensy31.keys.is-is"
+                        }, 
+                        "caption": "Icelandic", 
+                        "checkbox": true, 
+                        "command": "select_sub_board"
+                    }, 
+                    {
+                        "args": {
+                            "option_index": 2, 
+                            "sub_board_id": "ide.teensy.avr.teensy31.keys.en-ie"
+                        }, 
+                        "caption": "Irish", 
+                        "checkbox": true, 
+                        "command": "select_sub_board"
+                    }, 
+                    {
+                        "args": {
+                            "option_index": 2, 
+                            "sub_board_id": "ide.teensy.avr.teensy31.keys.it-it"
+                        }, 
+                        "caption": "Italian", 
+                        "checkbox": true, 
+                        "command": "select_sub_board"
+                    }, 
+                    {
+                        "args": {
+                            "option_index": 2, 
+                            "sub_board_id": "ide.teensy.avr.teensy31.keys.no-no"
+                        }, 
+                        "caption": "Norwegian", 
+                        "checkbox": true, 
+                        "command": "select_sub_board"
+                    }, 
+                    {
+                        "args": {
+                            "option_index": 2, 
+                            "sub_board_id": "ide.teensy.avr.teensy31.keys.pt-pt"
+                        }, 
+                        "caption": "Portuguese", 
+                        "checkbox": true, 
+                        "command": "select_sub_board"
+                    }, 
+                    {
+                        "args": {
+                            "option_index": 2, 
+                            "sub_board_id": "ide.teensy.avr.teensy31.keys.pt-br"
+                        }, 
+                        "caption": "Portuguese Brazilian", 
+                        "checkbox": true, 
+                        "command": "select_sub_board"
+                    }, 
+                    {
+                        "args": {
+                            "option_index": 2, 
+                            "sub_board_id": "ide.teensy.avr.teensy31.keys.es-es"
+                        }, 
+                        "caption": "Spanish", 
+                        "checkbox": true, 
+                        "command": "select_sub_board"
+                    }, 
+                    {
+                        "args": {
+                            "option_index": 2, 
+                            "sub_board_id": "ide.teensy.avr.teensy31.keys.es-mx"
+                        }, 
+                        "caption": "Spanish Latin America", 
+                        "checkbox": true, 
+                        "command": "select_sub_board"
+                    }, 
+                    {
+                        "args": {
+                            "option_index": 2, 
+                            "sub_board_id": "ide.teensy.avr.teensy31.keys.sv-se"
+                        }, 
+                        "caption": "Swedish", 
+                        "checkbox": true, 
+                        "command": "select_sub_board"
+                    }, 
+                    {
+                        "args": {
+                            "option_index": 2, 
+                            "sub_board_id": "ide.teensy.avr.teensy31.keys.tr-tr"
+                        }, 
+                        "caption": "Turkish (partial)", 
+                        "checkbox": true, 
+                        "command": "select_sub_board"
+                    }, 
+                    {
+                        "args": {
+                            "option_index": 2, 
+                            "sub_board_id": "ide.teensy.avr.teensy31.keys.en-gb"
+                        }, 
+                        "caption": "United Kingdom", 
+                        "checkbox": true, 
+                        "command": "select_sub_board"
+                    }, 
+                    {
+                        "args": {
+                            "option_index": 2, 
+                            "sub_board_id": "ide.teensy.avr.teensy31.keys.usint"
+                        }, 
+                        "caption": "US International", 
+                        "checkbox": true, 
+                        "command": "select_sub_board"
+                    }, 
+                    {
+                        "caption": "-"
+                    }
+                ], 
+                "id": "board_options"
+            }
+        ], 
+        "id": "arduino", 
+        "mnemonic": "A"
+    }
+]

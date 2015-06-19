@@ -1,0 +1,22 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"BracketHighlighter",
+		"Evernote",
+		"Git",
+		"GitGutter-Edge",
+		"Github Tools",
+		"Package Control",
+		"PlainTasks",
+		"R-Box",
+		"Stino",
+		"Sublimerge Pro",
+		"Theme - Cobalt2",
+		"VHDL",
+		"Vintageous"
+	]
+}

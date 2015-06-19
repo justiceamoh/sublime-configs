@@ -1,0 +1,29 @@
+[
+    {
+        "caption": "Arduino", 
+        "children": [
+            {
+                "caption": "Sketchbook", 
+                "children": [
+                    {
+                        "args": {
+                            "sketch_path": "/Users/Junior/Documents/Arduino/blinky"
+                        }, 
+                        "caption": "blinky", 
+                        "command": "open_sketch"
+                    }, 
+                    {
+                        "args": {
+                            "sketch_path": "/Users/Junior/Documents/Arduino/sensor_tx"
+                        }, 
+                        "caption": "sensor_tx", 
+                        "command": "open_sketch"
+                    }
+                ], 
+                "id": "sketchbook"
+            }
+        ], 
+        "id": "arduino", 
+        "mnemonic": "A"
+    }
+]

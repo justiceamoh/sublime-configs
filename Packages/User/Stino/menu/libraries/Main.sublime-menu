@@ -1,0 +1,573 @@
+[
+    {
+        "caption": "Arduino", 
+        "children": [
+            {
+                "caption": "Import Library", 
+                "children": [
+                    {
+                        "args": {
+                            "library_path": "/Applications/arduino.app/Contents/Resources/Java/libraries/AccelStepper"
+                        }, 
+                        "caption": "AccelStepper (*)", 
+                        "command": "import_library"
+                    }, 
+                    {
+                        "args": {
+                            "library_path": "/Applications/arduino.app/Contents/Resources/Java/libraries/Adafruit_CC3000"
+                        }, 
+                        "caption": "Adafruit_CC3000 (*)", 
+                        "command": "import_library"
+                    }, 
+                    {
+                        "args": {
+                            "library_path": "/Applications/arduino.app/Contents/Resources/Java/libraries/Adafruit_GFX"
+                        }, 
+                        "caption": "Adafruit_GFX (*)", 
+                        "command": "import_library"
+                    }, 
+                    {
+                        "args": {
+                            "library_path": "/Applications/arduino.app/Contents/Resources/Java/libraries/Adafruit_ILI9340"
+                        }, 
+                        "caption": "Adafruit_ILI9340 (*)", 
+                        "command": "import_library"
+                    }, 
+                    {
+                        "args": {
+                            "library_path": "/Applications/arduino.app/Contents/Resources/Java/libraries/Adafruit_ILI9341"
+                        }, 
+                        "caption": "Adafruit_ILI9341 (*)", 
+                        "command": "import_library"
+                    }, 
+                    {
+                        "args": {
+                            "library_path": "/Applications/arduino.app/Contents/Resources/Java/libraries/Adafruit_NeoPixel"
+                        }, 
+                        "caption": "Adafruit_NeoPixel (*)", 
+                        "command": "import_library"
+                    }, 
+                    {
+                        "args": {
+                            "library_path": "/Applications/arduino.app/Contents/Resources/Java/libraries/Adafruit_RA8875"
+                        }, 
+                        "caption": "Adafruit_RA8875 (*)", 
+                        "command": "import_library"
+                    }, 
+                    {
+                        "args": {
+                            "library_path": "/Applications/arduino.app/Contents/Resources/Java/libraries/Adafruit_SSD1306"
+                        }, 
+                        "caption": "Adafruit_SSD1306 (*)", 
+                        "command": "import_library"
+                    }, 
+                    {
+                        "args": {
+                            "library_path": "/Applications/arduino.app/Contents/Resources/Java/libraries/Adafruit_ST7735"
+                        }, 
+                        "caption": "Adafruit_ST7735 (*)", 
+                        "command": "import_library"
+                    }, 
+                    {
+                        "args": {
+                            "library_path": "/Applications/arduino.app/Contents/Resources/Java/libraries/Adafruit_STMPE610"
+                        }, 
+                        "caption": "Adafruit_STMPE610 (*)", 
+                        "command": "import_library"
+                    }, 
+                    {
+                        "args": {
+                            "library_path": "/Applications/arduino.app/Contents/Resources/Java/libraries/AltSoftSerial"
+                        }, 
+                        "caption": "AltSoftSerial (*)", 
+                        "command": "import_library"
+                    }, 
+                    {
+                        "args": {
+                            "library_path": "/Applications/arduino.app/Contents/Resources/Java/libraries/Artnet"
+                        }, 
+                        "caption": "Artnet (*)", 
+                        "command": "import_library"
+                    }, 
+                    {
+                        "args": {
+                            "library_path": "/Applications/arduino.app/Contents/Resources/Java/libraries/Audio"
+                        }, 
+                        "caption": "Audio (*)", 
+                        "command": "import_library"
+                    }, 
+                    {
+                        "args": {
+                            "library_path": "/Applications/arduino.app/Contents/Resources/Java/libraries/Bounce"
+                        }, 
+                        "caption": "Bounce (*)", 
+                        "command": "import_library"
+                    }, 
+                    {
+                        "args": {
+                            "library_path": "/Applications/arduino.app/Contents/Resources/Java/libraries/CapacitiveSensor"
+                        }, 
+                        "caption": "CapacitiveSensor (*)", 
+                        "command": "import_library"
+                    }, 
+                    {
+                        "args": {
+                            "library_path": "/Applications/arduino.app/Contents/Resources/Java/libraries/DmxSimple"
+                        }, 
+                        "caption": "DmxSimple (*)", 
+                        "command": "import_library"
+                    }, 
+                    {
+                        "args": {
+                            "library_path": "/Applications/arduino.app/Contents/Resources/Java/libraries/DogLcd"
+                        }, 
+                        "caption": "DogLcd (*)", 
+                        "command": "import_library"
+                    }, 
+                    {
+                        "args": {
+                            "library_path": "/Applications/arduino.app/Contents/Resources/Java/libraries/DS1307RTC"
+                        }, 
+                        "caption": "DS1307RTC (*)", 
+                        "command": "import_library"
+                    }, 
+                    {
+                        "args": {
+                            "library_path": "/Applications/arduino.app/Contents/Resources/Java/libraries/EEPROM"
+                        }, 
+                        "caption": "EEPROM (*)", 
+                        "command": "import_library"
+                    }, 
+                    {
+                        "args": {
+                            "library_path": "/Applications/arduino.app/Contents/Resources/Java/libraries/Encoder"
+                        }, 
+                        "caption": "Encoder (*)", 
+                        "command": "import_library"
+                    }, 
+                    {
+                        "args": {
+                            "library_path": "/Applications/arduino.app/Contents/Resources/Java/libraries/Entropy"
+                        }, 
+                        "caption": "Entropy (*)", 
+                        "command": "import_library"
+                    }, 
+                    {
+                        "args": {
+                            "library_path": "/Applications/arduino.app/Contents/Resources/Java/libraries/Esplora"
+                        }, 
+                        "caption": "Esplora (*)", 
+                        "command": "import_library"
+                    }, 
+                    {
+                        "args": {
+                            "library_path": "/Applications/arduino.app/Contents/Resources/Java/libraries/Ethernet"
+                        }, 
+                        "caption": "Ethernet (*)", 
+                        "command": "import_library"
+                    }, 
+                    {
+                        "args": {
+                            "library_path": "/Applications/arduino.app/Contents/Resources/Java/libraries/FastLED"
+                        }, 
+                        "caption": "FastLED (*)", 
+                        "command": "import_library"
+                    }, 
+                    {
+                        "args": {
+                            "library_path": "/Applications/arduino.app/Contents/Resources/Java/libraries/FastSPI_LED"
+                        }, 
+                        "caption": "FastSPI_LED (*)", 
+                        "command": "import_library"
+                    }, 
+                    {
+                        "args": {
+                            "library_path": "/Applications/arduino.app/Contents/Resources/Java/libraries/Firmata"
+                        }, 
+                        "caption": "Firmata (*)", 
+                        "command": "import_library"
+                    }, 
+                    {
+                        "args": {
+                            "library_path": "/Applications/arduino.app/Contents/Resources/Java/libraries/FlexCAN"
+                        }, 
+                        "caption": "FlexCAN (*)", 
+                        "command": "import_library"
+                    }, 
+                    {
+                        "args": {
+                            "library_path": "/Applications/arduino.app/Contents/Resources/Java/libraries/FlexiTimer2"
+                        }, 
+                        "caption": "FlexiTimer2 (*)", 
+                        "command": "import_library"
+                    }, 
+                    {
+                        "args": {
+                            "library_path": "/Applications/arduino.app/Contents/Resources/Java/libraries/FreqCount"
+                        }, 
+                        "caption": "FreqCount (*)", 
+                        "command": "import_library"
+                    }, 
+                    {
+                        "args": {
+                            "library_path": "/Applications/arduino.app/Contents/Resources/Java/libraries/FreqMeasure"
+                        }, 
+                        "caption": "FreqMeasure (*)", 
+                        "command": "import_library"
+                    }, 
+                    {
+                        "args": {
+                            "library_path": "/Applications/arduino.app/Contents/Resources/Java/libraries/FrequencyTimer2"
+                        }, 
+                        "caption": "FrequencyTimer2 (*)", 
+                        "command": "import_library"
+                    }, 
+                    {
+                        "args": {
+                            "library_path": "/Applications/arduino.app/Contents/Resources/Java/libraries/GSM"
+                        }, 
+                        "caption": "GSM (*)", 
+                        "command": "import_library"
+                    }, 
+                    {
+                        "args": {
+                            "library_path": "/Applications/arduino.app/Contents/Resources/Java/libraries/ILI9341_t3"
+                        }, 
+                        "caption": "ILI9341_t3 (*)", 
+                        "command": "import_library"
+                    }, 
+                    {
+                        "args": {
+                            "library_path": "/Applications/arduino.app/Contents/Resources/Java/libraries/IRremote"
+                        }, 
+                        "caption": "IRremote (*)", 
+                        "command": "import_library"
+                    }, 
+                    {
+                        "args": {
+                            "library_path": "/Applications/arduino.app/Contents/Resources/Java/libraries/Keypad"
+                        }, 
+                        "caption": "Keypad (*)", 
+                        "command": "import_library"
+                    }, 
+                    {
+                        "args": {
+                            "library_path": "/Applications/arduino.app/Contents/Resources/Java/libraries/ks0108"
+                        }, 
+                        "caption": "ks0108 (*)", 
+                        "command": "import_library"
+                    }, 
+                    {
+                        "args": {
+                            "library_path": "/Applications/arduino.app/Contents/Resources/Java/libraries/LedControl"
+                        }, 
+                        "caption": "LedControl (*)", 
+                        "command": "import_library"
+                    }, 
+                    {
+                        "args": {
+                            "library_path": "/Applications/arduino.app/Contents/Resources/Java/libraries/LedDisplay"
+                        }, 
+                        "caption": "LedDisplay (*)", 
+                        "command": "import_library"
+                    }, 
+                    {
+                        "args": {
+                            "library_path": "/Applications/arduino.app/Contents/Resources/Java/libraries/LiquidCrystal"
+                        }, 
+                        "caption": "LiquidCrystal (*)", 
+                        "command": "import_library"
+                    }, 
+                    {
+                        "args": {
+                            "library_path": "/Applications/arduino.app/Contents/Resources/Java/libraries/LiquidCrystalFast"
+                        }, 
+                        "caption": "LiquidCrystalFast (*)", 
+                        "command": "import_library"
+                    }, 
+                    {
+                        "args": {
+                            "library_path": "/Applications/arduino.app/Contents/Resources/Java/libraries/LowPower"
+                        }, 
+                        "caption": "LowPower (*)", 
+                        "command": "import_library"
+                    }, 
+                    {
+                        "args": {
+                            "library_path": "/Applications/arduino.app/Contents/Resources/Java/libraries/Metro"
+                        }, 
+                        "caption": "Metro (*)", 
+                        "command": "import_library"
+                    }, 
+                    {
+                        "args": {
+                            "library_path": "/Applications/arduino.app/Contents/Resources/Java/libraries/MIDI"
+                        }, 
+                        "caption": "MIDI (*)", 
+                        "command": "import_library"
+                    }, 
+                    {
+                        "args": {
+                            "library_path": "/Applications/arduino.app/Contents/Resources/Java/libraries/MsTimer2"
+                        }, 
+                        "caption": "MsTimer2 (*)", 
+                        "command": "import_library"
+                    }, 
+                    {
+                        "args": {
+                            "library_path": "/Applications/arduino.app/Contents/Resources/Java/libraries/NewPing"
+                        }, 
+                        "caption": "NewPing (*)", 
+                        "command": "import_library"
+                    }, 
+                    {
+                        "args": {
+                            "library_path": "/Applications/arduino.app/Contents/Resources/Java/libraries/OctoWS2811"
+                        }, 
+                        "caption": "OctoWS2811 (*)", 
+                        "command": "import_library"
+                    }, 
+                    {
+                        "args": {
+                            "library_path": "/Applications/arduino.app/Contents/Resources/Java/libraries/OneWire"
+                        }, 
+                        "caption": "OneWire (*)", 
+                        "command": "import_library"
+                    }, 
+                    {
+                        "args": {
+                            "library_path": "/Applications/arduino.app/Contents/Resources/Java/libraries/OSC"
+                        }, 
+                        "caption": "OSC (*)", 
+                        "command": "import_library"
+                    }, 
+                    {
+                        "args": {
+                            "library_path": "/Applications/arduino.app/Contents/Resources/Java/libraries/Ping"
+                        }, 
+                        "caption": "Ping (*)", 
+                        "command": "import_library"
+                    }, 
+                    {
+                        "args": {
+                            "library_path": "/Applications/arduino.app/Contents/Resources/Java/libraries/PS2Keyboard"
+                        }, 
+                        "caption": "PS2Keyboard (*)", 
+                        "command": "import_library"
+                    }, 
+                    {
+                        "args": {
+                            "library_path": "/Applications/arduino.app/Contents/Resources/Java/libraries/PulsePosition"
+                        }, 
+                        "caption": "PulsePosition (*)", 
+                        "command": "import_library"
+                    }, 
+                    {
+                        "args": {
+                            "library_path": "/Applications/arduino.app/Contents/Resources/Java/libraries/PWMServo"
+                        }, 
+                        "caption": "PWMServo (*)", 
+                        "command": "import_library"
+                    }, 
+                    {
+                        "args": {
+                            "library_path": "/Applications/arduino.app/Contents/Resources/Java/libraries/RadioHead"
+                        }, 
+                        "caption": "RadioHead (*)", 
+                        "command": "import_library"
+                    }, 
+                    {
+                        "args": {
+                            "library_path": "/Applications/arduino.app/Contents/Resources/Java/libraries/Robot_Control"
+                        }, 
+                        "caption": "Robot_Control (*)", 
+                        "command": "import_library"
+                    }, 
+                    {
+                        "args": {
+                            "library_path": "/Applications/arduino.app/Contents/Resources/Java/libraries/Robot_Motor"
+                        }, 
+                        "caption": "Robot_Motor (*)", 
+                        "command": "import_library"
+                    }, 
+                    {
+                        "args": {
+                            "library_path": "/Applications/arduino.app/Contents/Resources/Java/libraries/RobotIRremote"
+                        }, 
+                        "caption": "RobotIRremote (*)", 
+                        "command": "import_library"
+                    }, 
+                    {
+                        "args": {
+                            "library_path": "/Applications/arduino.app/Contents/Resources/Java/libraries/SD"
+                        }, 
+                        "caption": "SD (*)", 
+                        "command": "import_library"
+                    }, 
+                    {
+                        "args": {
+                            "library_path": "/Applications/arduino.app/Contents/Resources/Java/libraries/Servo"
+                        }, 
+                        "caption": "Servo (*)", 
+                        "command": "import_library"
+                    }, 
+                    {
+                        "args": {
+                            "library_path": "/Applications/arduino.app/Contents/Resources/Java/libraries/ShiftPWM"
+                        }, 
+                        "caption": "ShiftPWM (*)", 
+                        "command": "import_library"
+                    }, 
+                    {
+                        "args": {
+                            "library_path": "/Applications/arduino.app/Contents/Resources/Java/libraries/SoftPWM"
+                        }, 
+                        "caption": "SoftPWM (*)", 
+                        "command": "import_library"
+                    }, 
+                    {
+                        "args": {
+                            "library_path": "/Applications/arduino.app/Contents/Resources/Java/libraries/SoftwareSerial"
+                        }, 
+                        "caption": "SoftwareSerial (*)", 
+                        "command": "import_library"
+                    }, 
+                    {
+                        "args": {
+                            "library_path": "/Applications/arduino.app/Contents/Resources/Java/libraries/SPI"
+                        }, 
+                        "caption": "SPI (*)", 
+                        "command": "import_library"
+                    }, 
+                    {
+                        "args": {
+                            "library_path": "/Applications/arduino.app/Contents/Resources/Java/libraries/SPIFlash"
+                        }, 
+                        "caption": "SPIFlash (*)", 
+                        "command": "import_library"
+                    }, 
+                    {
+                        "args": {
+                            "library_path": "/Applications/arduino.app/Contents/Resources/Java/libraries/ST7565"
+                        }, 
+                        "caption": "ST7565 (*)", 
+                        "command": "import_library"
+                    }, 
+                    {
+                        "args": {
+                            "library_path": "/Applications/arduino.app/Contents/Resources/Java/libraries/Stepper"
+                        }, 
+                        "caption": "Stepper (*)", 
+                        "command": "import_library"
+                    }, 
+                    {
+                        "args": {
+                            "library_path": "/Applications/arduino.app/Contents/Resources/Java/libraries/TFT"
+                        }, 
+                        "caption": "TFT (*)", 
+                        "command": "import_library"
+                    }, 
+                    {
+                        "args": {
+                            "library_path": "/Applications/arduino.app/Contents/Resources/Java/libraries/Time"
+                        }, 
+                        "caption": "Time (*)", 
+                        "command": "import_library"
+                    }, 
+                    {
+                        "args": {
+                            "library_path": "/Applications/arduino.app/Contents/Resources/Java/libraries/TimeAlarms"
+                        }, 
+                        "caption": "TimeAlarms (*)", 
+                        "command": "import_library"
+                    }, 
+                    {
+                        "args": {
+                            "library_path": "/Applications/arduino.app/Contents/Resources/Java/libraries/TimerOne"
+                        }, 
+                        "caption": "TimerOne (*)", 
+                        "command": "import_library"
+                    }, 
+                    {
+                        "args": {
+                            "library_path": "/Applications/arduino.app/Contents/Resources/Java/libraries/TimerThree"
+                        }, 
+                        "caption": "TimerThree (*)", 
+                        "command": "import_library"
+                    }, 
+                    {
+                        "args": {
+                            "library_path": "/Applications/arduino.app/Contents/Resources/Java/libraries/TinyGPS"
+                        }, 
+                        "caption": "TinyGPS (*)", 
+                        "command": "import_library"
+                    }, 
+                    {
+                        "args": {
+                            "library_path": "/Applications/arduino.app/Contents/Resources/Java/libraries/Tlc5940"
+                        }, 
+                        "caption": "Tlc5940 (*)", 
+                        "command": "import_library"
+                    }, 
+                    {
+                        "args": {
+                            "library_path": "/Applications/arduino.app/Contents/Resources/Java/libraries/UTFT"
+                        }, 
+                        "caption": "UTFT (*)", 
+                        "command": "import_library"
+                    }, 
+                    {
+                        "args": {
+                            "library_path": "/Applications/arduino.app/Contents/Resources/Java/libraries/VirtualWire"
+                        }, 
+                        "caption": "VirtualWire (*)", 
+                        "command": "import_library"
+                    }, 
+                    {
+                        "args": {
+                            "library_path": "/Applications/arduino.app/Contents/Resources/Java/libraries/WiFi"
+                        }, 
+                        "caption": "WiFi (*)", 
+                        "command": "import_library"
+                    }, 
+                    {
+                        "args": {
+                            "library_path": "/Applications/arduino.app/Contents/Resources/Java/libraries/Wire"
+                        }, 
+                        "caption": "Wire (*)", 
+                        "command": "import_library"
+                    }, 
+                    {
+                        "args": {
+                            "library_path": "/Applications/arduino.app/Contents/Resources/Java/libraries/x10"
+                        }, 
+                        "caption": "x10 (*)", 
+                        "command": "import_library"
+                    }, 
+                    {
+                        "args": {
+                            "library_path": "/Applications/arduino.app/Contents/Resources/Java/libraries/XBee"
+                        }, 
+                        "caption": "XBee (*)", 
+                        "command": "import_library"
+                    }, 
+                    {
+                        "caption": "-"
+                    }, 
+                    {
+                        "caption": "-"
+                    }, 
+                    {
+                        "caption": "-"
+                    }, 
+                    {
+                        "caption": "-"
+                    }
+                ], 
+                "id": "import_library"
+            }
+        ], 
+        "id": "arduino", 
+        "mnemonic": "A"
+    }
+]

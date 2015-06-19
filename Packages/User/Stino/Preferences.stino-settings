@@ -1,0 +1,13 @@
+{
+    "arduino_ide_path": "/Applications/arduino.app", 
+    "ide.teensy.avr.teensy31": [
+        "ide.teensy.avr.teensy31.usb.serial", 
+        "ide.teensy.avr.teensy31.speed.96", 
+        "ide.teensy.avr.teensy31.keys.en-us"
+    ], 
+    "lang_id": "en", 
+    "serial_port": "/dev/cu.Bluetooth-Incoming-Port", 
+    "sketchbook_path": "/Users/Junior/Documents/Arduino", 
+    "target_board_id": "ide.teensy.avr.teensy31", 
+    "target_programmer_id": "ide.arduino.avr.avrisp"
+}

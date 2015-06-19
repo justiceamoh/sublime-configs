@@ -1,0 +1,10 @@
+{
+	"color_scheme": "Packages/Theme - Cobalt2/cobalt2.tmTheme",
+	"ignored_packages":
+	[
+		"Git",
+		"Vintage",
+		"GitGutter-Edge"
+	],
+	"theme": "Cobalt2.sublime-theme"
+}
